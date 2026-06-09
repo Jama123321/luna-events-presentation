@@ -1,0 +1,11 @@
+pdf_images/
+*.pdf
+*.b64
+*.xlsx
+*.pptx
+__pycache__/
+*.pyc
+create_presentation.py
+screenshots/
+.DS_Store
+Thumbs.db
